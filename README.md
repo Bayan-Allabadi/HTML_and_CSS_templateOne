@@ -15,7 +15,7 @@
 
 ### Links
 
-- Live Site URL: [Leon Template](https://mouatezbenariba.github.io/template-html-css-01/)
+- Live Site URL: [<b>Leon Template</b>](https://mouatezbenariba.github.io/template-html-css-01/)
 
 
 
